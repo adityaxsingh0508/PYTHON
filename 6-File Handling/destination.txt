@@ -1,0 +1,6 @@
+This is a new line.
+Hello world!
+Writing a file in Python is easy!
+First line
+Second line
+Third line

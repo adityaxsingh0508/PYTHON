@@ -1,0 +1,2 @@
+This is a new line.
+Writing to a file in Python is easy!
