@@ -1,2 +1,2 @@
-This is a new line.
-Writing to a file in Python is easy!
+This is a sample output file.
+It contains multiple lines of text.

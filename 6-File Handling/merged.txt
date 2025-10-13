@@ -1,0 +1,7 @@
+Hi
+How are you ??
+Welcome to my GitAppending a new line to the file.
+
+This is a new line.
+Writing to a file in Python is easy!
+

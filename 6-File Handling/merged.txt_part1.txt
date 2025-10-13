@@ -1,0 +1,3 @@
+Hi
+How are you ??
+Welcome to my GitAppending a new line to the file.
